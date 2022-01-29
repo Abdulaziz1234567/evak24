@@ -196,6 +196,9 @@ text-transform: uppercase;
         grid-template-columns: repeat(2,1fr);
         gap: 20px;
     }
+        .footer_bottom-block {
+        padding: 0 0px;
+    }
 }
 @media(max-width:767px){
     
